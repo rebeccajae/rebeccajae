@@ -4,6 +4,12 @@ Hey there! I'm an SRE working on Really Cool Stuff. Unfortunately, due to this, 
 I have to dedicate to maintaining personal projects is limited. I try when I can, but
 this can get difficult.
 
+## A note on code
+As GitHub seems to be interacting with OpenAI to build a code anonymization strategy 
+to ensure that objectionable licenses can be avoided, _only_ repositories that I know
+are referenced elsewhere, or are forks of another project will be available. Any other
+projects (even jokes) have been made private as of 6/29/2021.
+
 ## Interaction Details
 I've got horrible social anxiety, so treat me like a scared dog. I'm very enthusiastic
 when I'm familiar with someone or a community, but it does take me a while to warm up
